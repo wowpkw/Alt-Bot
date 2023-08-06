@@ -1,2 +1,2 @@
-# Alt-Bot
-My own AltBot (Controlled alt account via your main account)
+# Discord.py-self
+This is required for this to work.
